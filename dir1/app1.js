@@ -1,1 +1,1 @@
-console.log('app1');
+console.log(123);
